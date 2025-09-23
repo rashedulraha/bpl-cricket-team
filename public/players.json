@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "rating": 588,
+    "price": 1500000,
+    "img": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg"
+  },
+  {
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 570,
+    "price": 1400000,
+    "img": "https://www.hindustantimes.com/ht-img/img/2025/07/18/550x309/CRICKET-CT-2025-IND-NZL-8_1741509848537_1752845608543.jpg"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 560,
+    "price": 1300000,
+    "img": "https://e0.365dm.com/25/02/1600x900/skysports-joe-root-england_6835499.jpg?20250221120248"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 550,
+    "price": 1250000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrNt3ViFIquVtqcT9BHW05uU6c73UV0RNFg&s"
+  },
+  {
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 565,
+    "price": 1350000,
+    "img": "https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/26b9/live/c7ffff60-e542-11ef-b52b-2f7aceb40199.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "rating": 580,
+    "price": 1450000,
+    "img": "https://static.independent.co.uk/2025/02/25/10/bc3942b97709635c01bb88d261840ab2Y29udGVudHNlYXJjaGFwaSwxNzQwNTY0MDI3-2.78466672.jpg"
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand-Bat",
+    "rating": 540,
+    "price": 1200000,
+    "img": "https://www.zapcricket.com/cdn/shop/articles/WhatsApp_Image_2024-07-24_at_14.38.38.webp?v=1721812636"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 575,
+    "price": 1380000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILoZaIvy5wAU_p6HQJ-HbZxkONDkKw-o7fg&s"
+  },
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper-Batsman",
+    "battingStyle": "Left-Hand-Bat",
+    "rating": 530,
+    "price": 1150000,
+    "img": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/22b6/live/9e2f1330-9792-11f0-a4bc-e5c9e246a537.jpg"
+  },
+  {
+    "name": "Shai Hope",
+    "country": "West Indies",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 520,
+    "price": 1100000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3c3uBscJvK2EQejy_RI_HndxWNCagzXjYlQ&s"
+  },
+  {
+    "name": "Jason Holder",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 545,
+    "price": 1220000,
+    "img": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/55d3/live/c9d90ea0-22c2-11ef-ba08-c9e0abdb1668.jpg"
+  },
+  {
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 535,
+    "price": 1180000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXySzOo0N7wU-hCnaL2IQD8wiET6BXPIPA4w&s"
+  },
+  {
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 550,
+    "price": 1250000,
+    "img": "https://c.ndtvimg.com/2022-09/3bn04gs_mitchell-starc-afp-_625x300_03_September_22.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605"
+  },
+  {
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 560,
+    "price": 1300000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qu6CEn57wox7tOSL0gfxRmTriYhd9OJm-g&s"
+  },
+  {
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 540,
+    "price": 1200000,
+    "img": "https://caughtatpoint.com/wp-content/uploads/2018/02/Trent-Boult-bowling-action.jpg"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 570,
+    "price": 1400000,
+    "img": "https://cdn.britannica.com/35/264735-050-9D24B35E/jasprit-bumrah-india-ICC-mens-T20-cricket-world-cup-june-2024.jpg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "rating": 555,
+    "price": 1280000,
+    "img": "https://cdcimages.cricket.com/news-1734282724549?auto=compress,format&dpr=1&w=976&h400&q=80"
+  },
+  {
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 530,
+    "price": 1150000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsITyfw-j7Vacw0cZ4ID7v4zav-plEwTITGw&s"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper-Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 525,
+    "price": 1120000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Bu4gTVxRQNGninzULAfeqIqZCItzRfPKhA&s"
+  },
+  {
+    "name": "Liam Livingstone",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "rating": 545,
+    "price": 1220000,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44DGCgIofHdFJcIf0H9weK0iRJgxzFGYYuw&s"
+  }
+]
