@@ -1,7 +1,7 @@
 const SelectedSinglePlayers = ({ singlePlayerData, removePlayer }) => {
   //
   const handleClickRemove = () => {
-    removePlayer("Hello");
+    removePlayer(singlePlayerData);
   };
 
   const { img, name, battingStyle, role } = singlePlayerData;

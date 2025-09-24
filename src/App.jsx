@@ -17,7 +17,11 @@ const App = () => {
   const [purchasedPlayers, setPurchasedPlayers] = useState([]);
 
   const removePlayer = (remove) => {
-    console.log(remove);
+    const filteredData = purchasedPlayers.filter(
+      (players) => players.name !== remove.name
+    );
+    setPurchasedPlayers(filteredData);
+    setAvailableBalance(availableBalance + remove.price);
   };
 
   const AllPlayersToggle = (toggleResult) => {
@@ -36,7 +40,7 @@ const App = () => {
             <h2 className=" text-center md:text-left font-medium text-2xl text-zinc-900 capitalize ">
               {toggle
                 ? "available players"
-                : `"available players (${purchasedPlayers.length}/6)`}
+                : `available players (${purchasedPlayers.length}/6)`}
             </h2>
             <div className="flex items-center justify-center">
               <button

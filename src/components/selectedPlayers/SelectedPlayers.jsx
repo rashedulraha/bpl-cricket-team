@@ -1,12 +1,10 @@
-import HeroSection from "../HeroSection/HeroSection";
 import SelectedSinglePlayers from "./SelectedSinglePlayers";
 
-const SelectedPlayers = (purchasedPlayers, removePlayer) => {
-  const singleSelectedPlayersData = purchasedPlayers.purchasedPlayers;
+const SelectedPlayers = ({ purchasedPlayers, removePlayer }) => {
+  const singleSelectedPlayersData = purchasedPlayers;
 
   return (
     <div className="mt-5">
-      {/* <HeroSection />  */}
       <div className="grid grid-cols-1 space-y-4">
         {singleSelectedPlayersData.map((singlePlayerData) => (
           <SelectedSinglePlayers
